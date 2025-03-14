@@ -46,7 +46,7 @@
 > ```
 > python predict.py
 > ```
-> After that, you can find the prediction results in `./RESULTS/CALIFORNIA` and `./RESULTS/COLOR_CALIFORNIA`<br>
-> For heatmap visualization of change detection results you can find it in `./MiddleFeature/CD_Map`
+> You can find the prediction results in `./RESULTS/CALIFORNIA` and `./RESULTS/COLOR_CALIFORNIA`<br>
+> For heatmap visualization of change detection results you can find them in `./MiddleFeature/CD_Map`
 
 
