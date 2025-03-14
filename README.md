@@ -35,14 +35,14 @@
 > --loss=multi #celoss+diceloss+edgeloss
 > ```
 > ## Evaluate
-> To evaluate a network, run:
+> To evaluate a network, run:<br>
 > ```
 > python eval.py
 > ```
 > ## Predict
-> We have some samples from the California dataset in the folder for prediction `./SAMPLES_CALIFORNIA`<br>
-> You can find our pretrained model of California in `./CHECKPOINTS_CALIFORNI/California`<br>
-> Get started as follows:
+> We have some samples from the California dataset in the folder for prediction `./SAMPLES_CALIFORNIA` <br>
+> You can download our pretrained model of California in https://pan.baidu.com/s/1javze9eEGqDSqj-qIpFZcw?pwd=3ssc and put in `./CHECKPOINTS_CALIFORNI/California` <br>
+> Get started as follows:<br>
 > ```
 > python predict.py
 > ```
