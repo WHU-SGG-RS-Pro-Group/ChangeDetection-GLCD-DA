@@ -21,7 +21,7 @@
 `A`: images of t1 phase;<br>
 `B`:images of t2 phase;<br>
 `label`: label maps;<br>
-`list`: the image file names in the change detection dataset are recorded in .train.txt, val.txt and test.txt respectively.
+`list`: the image file names in the change detection dataset are recorded in .train.txt, val.txt and test.txt respectively.<br>
 # Usage
 > ## Training
 > To train a network, run:
