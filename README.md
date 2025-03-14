@@ -41,7 +41,7 @@
 > ```
 > ## Predict
 > We have some samples from the California dataset in the folder for prediction `./SAMPLES_CALIFORNIA` <br>
-> You can download our pretrained model of California in https://pan.baidu.com/s/1javze9eEGqDSqj-qIpFZcw?pwd=3ssc and put in `./CHECKPOINTS_CALIFORNI/California` <br>
+> You can download our pretrained model of California in https://pan.baidu.com/s/1-6zlbTOPsl5pNLlfKXa7YQ?pwd=9514 and put in `./CHECKPOINTS_CALIFORNI/California` <br>
 > Get started as follows:<br>
 > ```
 > python predict.py
